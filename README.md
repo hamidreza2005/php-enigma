@@ -1,4 +1,4 @@
-# PHgma
+# PHP Enigma
 ##### Simple Engima Machine written in Php.
 - encrypt Your Message  
 - NO BODY CAN'T READ IT 
